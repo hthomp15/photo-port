@@ -93,8 +93,6 @@ a:hover {
 
 header {
   background: var(--dark);
-  display: flex;
-  flex-direction: row;
 }
 
 header a {
